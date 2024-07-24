@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Babel
+.babelrc
+
+# Miscellaneous
+.DS_Store
+
+# Environment variables
+.env
+
+# Production
+/build
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
